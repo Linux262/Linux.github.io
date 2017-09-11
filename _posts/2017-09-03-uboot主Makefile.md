@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      uboot主Makefile分析
-subtitle:   
+subtitle:   Samsung smdkv210板子uboot移植到九鼎 x210板子
 date:       2017-09-03
 author:     Mlin
 header-img: img/post-bg-uboot-makefile.jpg
