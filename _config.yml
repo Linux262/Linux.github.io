@@ -101,3 +101,5 @@ friends: [
         href: "http://my.csdn.net/qq_34104227"
     }
 ]
+
+theme: jekyll-theme-tactile
